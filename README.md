@@ -1,4 +1,10 @@
-# test-webview
+# KakaoMap-Nuxt
+> 2022년 동북권 공공데이터 활용 챌린지 - 프로토타입 모듈
+
+ReactNative 상에 KakaoMap을 구동시키기 위한 Nuxt 기반 웹 모듈 제작. 
+
+[React + Nuxt: 843d44cb15](https://github.com/77elon/Evacuation-Center-Visualization/tree/843d44cb15abb9fff6abbd8fb34c165e19a6a6d0)  
+최신 버전에서는 구글 지도를 채택하였으므로 해당 모듈을 사용하지 않는다.
 
 ## Build Setup
 
